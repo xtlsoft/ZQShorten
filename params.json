@@ -1,0 +1,6 @@
+{
+  "name": "Zqshorten",
+  "tagline": "这是一个短网址系统，请在apache下用，无需数据库，php>5.1即可",
+  "body": "# ZQShorten\r\n这是一个短网址系统，请在apache下用，无需数据库，php>5.1即可\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
